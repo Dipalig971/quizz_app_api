@@ -1,16 +1,11 @@
 # quizz_app_api
 
-A new Flutter project.
+A simple Quiz application built using Flutter and GetX for state management. This app demonstrates efficient state handling, user interaction, and reactive UI updates.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- CRUD Operations for Questions: Create, Read, Update, and Delete quiz questions.
+- Reactive State Management: Uses GetX's reactive capabilities to manage the quiz state.
+- Quiz Progress Tracking: Track the user's progress through the quiz.
+- Score Calculation: Automatically calculate and display the user's score.
+- Clean Architecture: Separation of concerns between UI, state management, and data models.
